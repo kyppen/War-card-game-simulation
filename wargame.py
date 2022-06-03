@@ -1,5 +1,6 @@
 #Created by Kyppen
 #Date started 2/6/2022
+#Python version 3.9.7
 import random 
 
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
